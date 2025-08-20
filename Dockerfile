@@ -9,7 +9,7 @@ RUN apt-get update && \
         git \
         libglib2.0-0 \
         libnss3 \
-        libgconf-2-4 \
+        libfontconfig1 \
         libfontconfig1 \
         libxss1 \
         libasound2 \
